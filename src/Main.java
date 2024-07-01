@@ -5,7 +5,7 @@ public class Main{
         int mat, fizik, kimya, turkce, tarih, muzik;
         Scanner inp = new Scanner(System.in);
 
-        System.out.print("matematik notunuz : " + mat );
+        System.out.print("matematik notunuz : ");
         mat = inp.nextInt();
         System.out.print("Fizik notunuz : ");
         fizik = inp.nextInt();
